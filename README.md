@@ -1,1 +1,1 @@
-# [Welcome to Hackout 3's wiki](https://github.com/Hackout3/wiki/wiki)
+# [Enter the *Hackout 3* wiki](https://github.com/Hackout3/wiki/wiki)
